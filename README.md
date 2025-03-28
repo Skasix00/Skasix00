@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bruno Castelo</h1>
 <h3 align="center">I'm a FullStack Developer, but in my core I love Frontend :D</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasix00&label=Visits&color=a06ffb&style=plastic" alt="skasix00" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skasix00" alt="skasix00" /></a> </p>
