@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skasix00" alt="skasix00" /></a> </p>
 
 <br>
-
+![snake animation](https://github.com/Skasix00/Skasix00/blob/output/github-contribution-grid-snake2.svg)
 
 - 🔭 I’m currently working on [React Native CMetropolitana APP Conversion](https://github.com/carrismetropolitana/app.git)
 
