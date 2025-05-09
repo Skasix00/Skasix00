@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bruno Castelo</h1>
 <h3 align="center">I'm a FullStack Developer, but in my core I love Frontend :D</h3>
 
-<div class="d-flex align-items-center justify-content-center" style="height: 250px;">
+<p align="center" width="100%">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Skasix00/Skasix00/blob/output/github-contribution-grid-snake.dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Skasix00/Skasix00/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasix00&label=Visits&color=a06ffb&style=plastic" alt="skasix00" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skasix00" alt="skasix00" /></a> </p>
@@ -40,3 +40,4 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=skasix00)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skasix00&" alt="skasix00" /></p>
+</p>
