@@ -2,8 +2,8 @@
 <h3 align="center">I'm a FullStack Developer, but in my core I love Frontend :D</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Skasix00/Skasix00/blob/output/github-contribution-grid-snake.dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Skasix00/Skasix00/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
