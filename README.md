@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasix00&label=Visits&color=a06ffb&style=plastic" alt="skasix00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skasix00" alt="skasix00" /></a> </p>
-
 - 🔭 I’m currently working on [React Native CMetropolitana APP Conversion](https://github.com/carrismetropolitana/app.git)
 
 - 🌱 I’m currently learning **JavaScript Backend Development**
