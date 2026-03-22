@@ -10,17 +10,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasix00&label=Visits&color=a06ffb&style=plastic" alt="skasix00" /> </p>
 
-- 🔭 I’m currently working on [React Native CMetropolitana APP Conversion](https://github.com/carrismetropolitana/app.git)
+- 🔭 I’m currently working on improving and developing new features off the [CarrisMetroploitana Website](https://github.com/carrismetropolitana/website.git)
 
 - 🌱 I’m currently learning **JavaScript Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help **with Learning and getting better**
+- 🤝 I’m looking for help **with Learning, getting better and opening my horizons**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Skasix00](https://github.com/Skasix00)
 
-- 💬 Ask me about **Whatever you want.**
+- 💬 Ask me about **Whatever you want, I'm a nice guy and I don't bite**
 
 - 📫 How to reach me **brunoalexcastelo@gmail.com**
 
