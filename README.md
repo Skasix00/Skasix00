@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasix00&label=Visits&color=a06ffb&style=plastic" alt="skasix00" /> </p>
 
-- 🔭 I’m currently working on improving and developing new features off the [CarrisMetroploitana Website](https://github.com/carrismetropolitana/website.git)
+- 🔭 I’m currently working on improving and developing new features off the [Nicenails Website](https://github.com/carrismetropolitana/website.git](https://github.com/Skasix00/NCN.git)
 
 - 🌱 I’m currently learning **JavaScript Backend Development**
 
